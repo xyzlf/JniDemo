@@ -2,6 +2,8 @@
 
 Jni实例练习，详细配置见：<http://xyzlf.github.io/2016/07/17/android-jni.html>
 
+这个Demo包括展示来着Jni的文案，以及增加了卸载监听。在4.1及以下系统，卸载该App后，会弹出网页。这个网址可以改成卸载调查之类的网址~
+
 # 效果
 
 <img src="ndk_view.png"/>

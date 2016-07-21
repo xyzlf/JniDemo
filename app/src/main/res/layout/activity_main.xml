@@ -22,6 +22,6 @@
         android:layout_marginTop="20dp"
         android:textSize="16sp"
         android:textColor="#00dd99"
-        android:text="在4.2以下手机，卸载此程序后，会弹出卸载调查网页."/>
+        android:text="在4.1及以下手机，卸载此程序后，会弹出卸载调查网页."/>
 
 </LinearLayout>
