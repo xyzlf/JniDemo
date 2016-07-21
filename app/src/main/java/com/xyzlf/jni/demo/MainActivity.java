@@ -13,5 +13,7 @@ public class MainActivity extends Activity {
 
         TextView textView = (TextView) findViewById(R.id.ndk_text);
         textView.setText(JniUtil.getStringFromJni());
+
+        JniUtil.uninstallListener();
     }
 }

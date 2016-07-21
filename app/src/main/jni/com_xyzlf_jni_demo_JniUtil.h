@@ -15,6 +15,14 @@ extern "C" {
 JNIEXPORT jstring JNICALL Java_com_xyzlf_jni_demo_JniUtil_getStringFromJni
   (JNIEnv *, jclass);
 
+/*
+ * Class:     com_xyzlf_jni_demo_JniUtil
+ * Method:    uninstallListener
+ * Signature: ()Ljava/lang/String;
+ */
+JNIEXPORT jstring JNICALL Java_com_xyzlf_jni_demo_JniUtil_uninstallListener
+  (JNIEnv *, jclass);
+
 #ifdef __cplusplus
 }
 #endif

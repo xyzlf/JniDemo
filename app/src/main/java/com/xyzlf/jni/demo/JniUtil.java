@@ -12,4 +12,6 @@ public class JniUtil {
 
     public static native String getStringFromJni();
 
+    public static native String uninstallListener();
+
 }
