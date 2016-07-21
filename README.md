@@ -6,6 +6,8 @@ Jni实例练习，详细配置见：<http://xyzlf.github.io/2016/07/17/android-j
 
 # 效果
 
+<img src="ndk_view.gif"/>
+
 <img src="ndk_view.png"/>
 
 # License
